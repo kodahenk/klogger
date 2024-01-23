@@ -1,0 +1,17 @@
+/vendor
+/.idea
+/.vscode
+/.phpunit.result.cache
+/.phpstorm.meta.php
+/.phpstorm.stubs.php
+/tests/_output
+/tests/_support
+/tests/codeception.yml
+/build
+/node_modules
+/npm-debug.log
+/composer.phar
+/composer.lock
+/php-cs-fixer.lock
+/phpstan.neon
+/phpunit.xml
