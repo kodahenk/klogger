@@ -1,5 +1,5 @@
 {
-    "name": "kodahenk/your-package",
+    "name": "kodahenk/klogger",
     "description": "Simple Logger Package",
     "type": "library",
     "authors": [
