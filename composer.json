@@ -4,8 +4,8 @@
     "type": "library",
     "authors": [
         {
-            "name": "Your Name",
-            "email": "your.email@example.com"
+            "name": "Orhan Osmanoğlu",
+            "email": "kodahenk@gmail.com"
         }
     ],
     "minimum-stability": "dev",
@@ -14,5 +14,11 @@
         "psr-4": {
             "kodahenk\\klogger\\": "src/"
         }
-    }
+    },
+    "license": "MIT",
+    "config": {
+        "platform": {
+            "php": "8.0"
+        }
+    }    
 }
